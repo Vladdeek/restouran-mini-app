@@ -20,7 +20,7 @@ const OrderCard = ({
 					<input
 						type='number'
 						className='h-6 w-7 border-1 rounded-md text-center'
-						value={}
+						value={food_item_count}
 					/>
 					<p className='self-center opacity-30 text-nowrap'>X</p>
 				</div>
